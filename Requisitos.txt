@@ -3,3 +3,5 @@ Restaurante Senac
   Cardápio
    Cursos
    Reservas
+   Localização
+   Hiustória/ Missão
